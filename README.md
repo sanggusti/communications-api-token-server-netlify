@@ -1,5 +1,7 @@
 # Dolby.io Communications API Token Server
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a7909e98-b008-437e-a923-f5f4a143f666/deploy-status)](https://app.netlify.com/sites/romantic-hopper-062716/deploys)
+
 Using a token for [initialization](https://docs.dolby.io/communications-apis/docs/initializing-javascript) of our SDK follows our best practice for securing your application. 
 
 This token server example is targeted for deployment with Netlify Functions.  The primary function may adapted for other function as a service on other platforms.
